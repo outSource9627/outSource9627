@@ -2,60 +2,55 @@
 
 <img src="./assets/xenotix-hero.svg" alt="Xenotix Labs — Product Engineering Company" width="100%" />
 
-### Ideas are cheap. Shipped products aren't.
-
-**We design, engineer and scale digital products that businesses actually run on.**
-
 <br/>
 
 <a href="https://www.xenotixlabs.com/">
-  <img src="https://img.shields.io/badge/Visit_Website-0B1220?style=for-the-badge&logo=googlechrome&logoColor=13C7B4" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-0B1220?style=for-the-badge&logo=googlechrome&logoColor=13C7B4" alt="Website" />
 </a>
 <a href="https://www.xenotixlabs.com/portfolio">
-  <img src="https://img.shields.io/badge/Explore_Our_Work-0B1220?style=for-the-badge&logo=github&logoColor=3CA7F2" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=github&logoColor=3CA7F2" alt="Portfolio" />
 </a>
 <a href="https://www.xenotixlabs.com/contact">
-  <img src="https://img.shields.io/badge/Start_A_Project-0B1220?style=for-the-badge&logo=rocket&logoColor=637BFF" alt="Start a Project" />
+  <img src="https://img.shields.io/badge/Start_a_Project-0B1220?style=for-the-badge&logo=maildotru&logoColor=637BFF" alt="Start a Project" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Web_&_SaaS-13C7B4?style=flat-square&labelColor=07101F" alt="Web & SaaS" />
-<img src="https://img.shields.io/badge/Mobile_Apps-3CA7F2?style=flat-square&labelColor=07101F" alt="Mobile Apps" />
-<img src="https://img.shields.io/badge/AI_&_Automation-637BFF?style=flat-square&labelColor=07101F" alt="AI & Automation" />
-<img src="https://img.shields.io/badge/Blockchain-13C7B4?style=flat-square&labelColor=07101F" alt="Blockchain" />
-<img src="https://img.shields.io/badge/Bengaluru_·_Noida_·_Remote-B7C8DE?style=flat-square&labelColor=07101F" alt="Locations" />
+**Product strategy, UI/UX, engineering, deployment and long-term scaling under one roof.**
+
+We work with startups, growing businesses and product teams to build web, mobile,
+AI and blockchain systems that hold up in production.
+
+<sub>Bengaluru · Noida · Remote collaboration worldwide</sub>
 
 </div>
 
 ---
 
-## ⚡ Most agencies hand over screens. We hand over a business.
+## More than a development company
 
-Source code is the easy part. What breaks startups is everything around it — the flow nobody validated, the architecture that folded at 10k users, the deploy nobody documented.
+Most agencies stop after delivering screens and source code. We stay involved across the
+full product lifecycle:
 
-So we own the whole arc:
+- validating the business flow before development begins
+- creating clean, conversion-focused user experiences
+- engineering scalable web, mobile and backend systems
+- deploying production-ready infrastructure
+- improving the product based on real user feedback
+- supporting maintenance, performance and future growth
 
-> **Validate → Design → Engineer → Ship → Measure → Scale**
-
-| Most agencies stop at | We keep going with |
-| :--- | :--- |
-| Figma files and a repo | A validated business flow before a single line is written |
-| "It works on staging" | Production infra, monitoring and rollback paths |
-| Feature checklists | Conversion-focused journeys shaped by real user behaviour |
-| Project delivered | A product that keeps improving after launch |
-
-**Our goal isn't to finish a project. It's to hand you something ready to operate, improve and scale.**
+The goal is not to finish a project. It is to hand over a product that is ready to
+operate, improve and scale.
 
 ---
 
-## 🧩 What we build
+## What we build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Web & SaaS Platforms
+### Web and SaaS platforms
 
 - High-performance business websites
 - SaaS products and subscription platforms
@@ -68,7 +63,7 @@ So we own the whole arc:
 </td>
 <td width="50%" valign="top">
 
-### 📱 Mobile Applications
+### Mobile applications
 
 - Android and iOS applications
 - Flutter and React Native products
@@ -83,7 +78,7 @@ So we own the whole arc:
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI & Automation
+### AI and automation
 
 - AI assistants and knowledge-base products
 - LLM and OpenAI API integrations
@@ -96,7 +91,7 @@ So we own the whole arc:
 </td>
 <td width="50%" valign="top">
 
-### ⛓️ Blockchain Solutions
+### Blockchain solutions
 
 - Blockchain-based verification systems
 - Smart contracts and token utilities
@@ -112,7 +107,7 @@ So we own the whole arc:
 
 ---
 
-## 🛠️ Idea → Product, in six moves
+## How an idea becomes a product
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0B1220','primaryTextColor':'#F6FAFF','primaryBorderColor':'#13C7B4','lineColor':'#3CA7F2','fontSize':'14px'}}}%%
@@ -124,53 +119,49 @@ flowchart LR
     E --> F["06 · Scale<br/>AMC, analytics & iterations"]
 ```
 
-### The delivery model
+### Delivery model
 
-| Stage | What actually happens |
+| Stage | What happens |
 | :--- | :--- |
-| **Discovery & Planning** | Requirements, business flows, scope, priorities, risks and release roadmap |
-| **UI/UX & Prototype** | User journeys, wireframes, visual system, responsive screens and a clickable prototype |
-| **Architecture** | Database, APIs, integrations, security, infrastructure and scalability planning |
-| **Development** | Sprint-based engineering with regular builds, reviews and full progress visibility |
-| **Quality Assurance** | Functional testing, edge cases, performance checks and production readiness |
-| **Launch & Support** | Deployment, monitoring, maintenance, improvements and future feature releases |
+| Discovery and planning | Requirements, business flows, scope, priorities, risks and release roadmap |
+| UI/UX and prototype | User journeys, wireframes, visual system, responsive screens and clickable prototype |
+| Architecture | Database, APIs, integrations, security, infrastructure and scalability planning |
+| Development | Sprint-based engineering with regular builds, reviews and progress visibility |
+| Quality assurance | Functional testing, edge cases, performance checks and production readiness |
+| Launch and support | Deployment, monitoring, maintenance, improvements and future feature releases |
 
 ---
 
-## 🧠 How we make technical decisions
+## Engineering principles
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-### 🎯
-**Product First**
+**Product first**
 
-Every technical decision starts with the user journey and the business outcome — not the framework we feel like using.
-
-</td>
-<td align="center" width="25%">
-
-### 📈
-**Built to Scale**
-
-Architecture designed for growth, integrations and traffic you haven't hit yet.
+Technical decisions start from the user journey and the business outcome.
 
 </td>
 <td align="center" width="25%">
 
-### 🔐
-**Secure by Design**
+**Built to scale**
 
-Role-based access, validation, logging and secure deployment practices from day one.
+Architecture designed for growth, integrations and increasing user demand.
 
 </td>
 <td align="center" width="25%">
 
-### ♾️
-**Long-Term Thinking**
+**Secure by design**
 
-Maintainable codebases the next engineer can read — and the business can evolve.
+Role-based access, validation, logging and secure deployment practices.
+
+</td>
+<td align="center" width="25%">
+
+**Long-term thinking**
+
+Maintainable codebases that can evolve with the product and the business.
 
 </td>
 </tr>
@@ -178,35 +169,39 @@ Maintainable codebases the next engineer can read — and the business can evolv
 
 ---
 
-## 🏗️ Selected product highlights
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏏 High-Traffic Sports Platform
+### High-traffic sports platform
 
-Real-time sports experience engineered to survive match-day — when traffic arrives all at once and nothing is allowed to lag.
+A real-time sports product built for match-day load, dynamic data and large-scale
+user interaction.
 
-**Engineering focus**
-- High-concurrency architecture
-- Fast content delivery and caching
-- Real-time match and contest workflows
-- Scalable backend services
-- Monitoring and continuous optimization
+Engineering focus:
+
+- high-concurrency architecture
+- fast content delivery and caching
+- real-time match and contest workflows
+- scalable backend services
+- monitoring and continuous optimization
 
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Campus Food Companion
+### Campus food companion
 
-A mobile product built around food discovery, ordering convenience and a genuinely smooth campus experience.
+A mobile product built around food discovery, ordering convenience and campus-specific
+usage patterns.
 
-**Product focus**
-- Clean, engaging mobile UI
-- Real-time menu and order flows
-- Digital payment experience
-- Location-oriented product journeys
+Product focus:
+
+- clean and engaging mobile UI
+- real-time menu and order flows
+- digital payment experience
+- location-oriented product journeys
 - Android and iOS delivery
 
 </td>
@@ -214,44 +209,49 @@ A mobile product built around food discovery, ordering convenience and a genuine
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Multi-Role Marketplace Systems
+### Multi-role marketplace systems
 
-Platforms connecting customers, providers, vendors, partners and admins — each with an experience built for their role.
+Platforms connecting customers, service providers, vendors, partners and administrators
+through role-based experiences.
 
-**Common capabilities**
-- Multi-role onboarding
-- Listing and discovery
-- Booking, ordering and subscriptions
-- Wallet and payment workflows
-- Partner dashboards and admin control
+Common capabilities:
+
+- multi-role onboarding
+- listing and discovery
+- booking, ordering and subscriptions
+- wallet and payment workflows
+- partner dashboards and admin control
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Business Platforms
+### AI-powered business platforms
 
-AI shipped inside operational products where it changes the work — not isolated demos that impress once.
+AI features built into operational products rather than standalone demos.
 
-**Common capabilities**
-- Contextual assistants
-- Knowledge-base search
-- Document processing
-- Automated summaries and recommendations
-- Workflow and customer-support automation
+Common capabilities:
+
+- contextual assistants
+- knowledge-base search
+- document processing
+- automated summaries and recommendations
+- workflow and customer-support automation
 
 </td>
 </tr>
 </table>
 
-> 🔒 **Why most repos here are private:** client work contains proprietary business logic, production infrastructure and confidential product data. We publish case studies, not client source code.
+> Most client repositories are private. They contain proprietary business logic,
+> production infrastructure and confidential product information. Case studies are
+> shared without exposing client source code.
 
 ---
 
-## 💻 Core technology stack
+## Technology
 
 <div align="center">
 
-**Frontend & Mobile**
+**Frontend and mobile**
 
 <img src="https://img.shields.io/badge/React-07101F?style=for-the-badge&logo=react&logoColor=3CA7F2" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-07101F?style=for-the-badge&logo=nextdotjs&logoColor=F6FAFF" alt="Next.js" />
@@ -260,7 +260,7 @@ AI shipped inside operational products where it changes the work — not isolate
 <img src="https://img.shields.io/badge/React_Native-07101F?style=for-the-badge&logo=react&logoColor=13C7B4" alt="React Native" />
 <img src="https://img.shields.io/badge/Tailwind-07101F?style=for-the-badge&logo=tailwindcss&logoColor=13C7B4" alt="Tailwind CSS" />
 
-**Backend, Data & Infrastructure**
+**Backend, data and infrastructure**
 
 <img src="https://img.shields.io/badge/Node.js-07101F?style=for-the-badge&logo=nodedotjs&logoColor=13C7B4" alt="Node.js" />
 <img src="https://img.shields.io/badge/Python-07101F?style=for-the-badge&logo=python&logoColor=3CA7F2" alt="Python" />
@@ -270,7 +270,7 @@ AI shipped inside operational products where it changes the work — not isolate
 <img src="https://img.shields.io/badge/Docker-07101F?style=for-the-badge&logo=docker&logoColor=3CA7F2" alt="Docker" />
 <img src="https://img.shields.io/badge/AWS-07101F?style=for-the-badge&logo=amazonwebservices&logoColor=13C7B4" alt="AWS" />
 
-**AI, Integrations & Product Infrastructure**
+**AI, integrations and product infrastructure**
 
 <img src="https://img.shields.io/badge/OpenAI-07101F?style=for-the-badge&logo=openai&logoColor=13C7B4" alt="OpenAI" />
 <img src="https://img.shields.io/badge/LangChain-07101F?style=for-the-badge&logo=langchain&logoColor=3CA7F2" alt="LangChain" />
@@ -283,24 +283,24 @@ AI shipped inside operational products where it changes the work — not isolate
 
 ---
 
-## 📦 What lands in your hands at the end
+## What clients receive
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-- ✅ Complete UI/UX files and a reusable design system
-- ✅ Customer-facing web or mobile applications
-- ✅ Admin, vendor, partner and operations dashboards
-- ✅ Backend APIs, database and third-party integrations
+- Complete UI/UX design files and a reusable design system
+- Customer-facing web or mobile applications
+- Admin, vendor, partner and operations dashboards
+- Backend APIs, database and third-party integrations
 
 </td>
 <td width="50%" valign="top">
 
-- ✅ Source code in structured, version-controlled repos
-- ✅ API, deployment and handover documentation
-- ✅ Production deployment and environment setup
-- ✅ Maintenance, monitoring and improvement support
+- Source code in structured, version-controlled repositories
+- API, deployment and handover documentation
+- Production deployment and environment setup
+- Maintenance, monitoring and improvement support
 
 </td>
 </tr>
@@ -308,35 +308,35 @@ AI shipped inside operational products where it changes the work — not isolate
 
 ---
 
-## 🤝 Three ways to work with us
+## Engagement models
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### 🚀 MVP Launch
+### MVP launch
 
-Validate a new idea with the right first-version feature set — nothing more, nothing missing.
+Validating a new idea with the right first-version feature set.
 
-`Startups · Pilots · Early market testing`
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🧑‍💻 Dedicated Product Team
-
-A full design and engineering team operating as an extension of your business.
-
-`Long-term development · Continuous releases`
+Best for startups, pilots and early market testing.
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="33%" valign="top">
 
-### 🔧 Product Modernization
+### Dedicated product team
 
-Rebuild the design, architecture and performance of a platform that has outgrown itself.
+A design and engineering team working as an extension of your business.
 
-`Scale limits · UX debt · Technical debt`
+Best for long-term product development and continuous releases.
+
+</td>
+<td width="33%" valign="top">
+
+### Product modernization
+
+Improving an existing platform's design, architecture, performance and maintainability.
+
+Best for products facing scale, UX or technical limitations.
 
 </td>
 </tr>
@@ -346,22 +346,23 @@ Rebuild the design, architecture and performance of a platform that has outgrown
 
 <div align="center">
 
-## 🌍 Built in India. Working globally.
+## Built in India. Working globally.
 
-**Bengaluru • Noida • Remote collaboration worldwide**
+Bengaluru · Noida · Remote collaboration worldwide
 
-Structured communication, clear milestones, regular product demos, transparent delivery.
-No black boxes, no surprise invoices.
+We work with founders and business teams through structured communication, clear
+milestones, regular product demonstrations and transparent delivery.
 
 <br/>
 
-Have a product idea, an existing platform, or a workflow that's held together by spreadsheets?
-Let's turn it into something your users trust and your business can scale.
+If you have a product idea, an existing platform or a complex workflow that needs
+technology behind it, we can help turn it into something your users trust and your
+business can scale.
 
 <br/>
 
 <a href="https://www.xenotixlabs.com/contact">
-  <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING_REMARKABLE-13C7B4?style=for-the-badge&logo=rocket&logoColor=07101F" alt="Build with Xenotix Labs" />
+  <img src="https://img.shields.io/badge/Get_in_touch-13C7B4?style=for-the-badge&logoColor=07101F" alt="Contact Xenotix Labs" />
 </a>
 
 </div>
@@ -369,7 +370,7 @@ Let's turn it into something your users trust and your business can scale.
 ---
 
 <details>
-<summary><strong>📊 GitHub engineering activity</strong></summary>
+<summary><strong>GitHub engineering activity</strong></summary>
 
 <br/>
 
@@ -385,10 +386,10 @@ Let's turn it into something your users trust and your business can scale.
 
 <div align="center">
 
-<sub>Product Engineering • Web Development • Mobile Applications • AI Solutions • Blockchain Development</sub>
+<sub>Product engineering · Web development · Mobile applications · AI solutions · Blockchain development</sub>
 
 <br/>
 
-<sub>© Xenotix Labs — Engineering products built for real growth.</sub>
+<sub>© Xenotix Labs</sub>
 
 </div>
