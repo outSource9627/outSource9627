@@ -1,0 +1,112 @@
+<svg width="1400" height="520" viewBox="0 0 1400 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07101F"/>
+      <stop offset="0.52" stop-color="#0A1224"/>
+      <stop offset="1" stop-color="#07101F"/>
+    </linearGradient>
+
+    <linearGradient id="brand" x1="270" y1="125" x2="1125" y2="405" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13C7B4"/>
+      <stop offset="0.52" stop-color="#3CA7F2"/>
+      <stop offset="1" stop-color="#637BFF"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientTransform="translate(250 135) rotate(30) scale(470 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13C7B4" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#13C7B4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientTransform="translate(1180 420) rotate(-150) scale(510 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#637BFF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#637BFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#BFD7FF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="14" stdDeviation="24" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="520" rx="34" fill="url(#bg)"/>
+  <rect width="1400" height="520" rx="34" fill="url(#grid)"/>
+  <rect width="1400" height="520" rx="34" fill="url(#glowA)"/>
+  <rect width="1400" height="520" rx="34" fill="url(#glowB)"/>
+
+  <path d="M0 1H1400" stroke="url(#brand)" stroke-width="2" opacity="0.95"/>
+  <path d="M0 519H1400" stroke="url(#brand)" stroke-width="2" opacity="0.45"/>
+
+  <!-- decorative code chips -->
+  <g opacity="0.48">
+    <rect x="82" y="70" width="168" height="36" rx="18" fill="#0D1A30" stroke="#8AC9FF" stroke-opacity="0.18"/>
+    <circle cx="106" cy="88" r="4" fill="#13C7B4"/>
+    <text x="121" y="94" fill="#9CB5D7" font-size="15" font-family="Inter, Arial, sans-serif">product engineering</text>
+
+    <rect x="1128" y="76" width="190" height="36" rx="18" fill="#0D1A30" stroke="#8AC9FF" stroke-opacity="0.18"/>
+    <circle cx="1152" cy="94" r="4" fill="#637BFF"/>
+    <text x="1167" y="100" fill="#9CB5D7" font-size="15" font-family="Inter, Arial, sans-serif">built to scale</text>
+  </g>
+
+  <!-- logo mark -->
+  <g transform="translate(116 159)" filter="url(#shadow)">
+    <rect width="190" height="190" rx="45" fill="#0A1428" stroke="#A9CEFF" stroke-opacity="0.14"/>
+    <path d="M48 49L142 143" stroke="#13C7B4" stroke-width="18" stroke-linecap="round"/>
+    <path d="M143 48L49 142" stroke="#5D79FF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M72 142L142 72" stroke="#39A5F0" stroke-width="10" stroke-linecap="round" opacity="0.95"/>
+    <circle cx="149" cy="41" r="5" fill="#13C7B4" filter="url(#softGlow)"/>
+  </g>
+
+  <g transform="translate(360 137)">
+    <text x="0" y="0" fill="#8FA9CB" font-size="22" font-weight="600" letter-spacing="4" font-family="Inter, Arial, sans-serif">
+      XENOTIX LABS
+    </text>
+
+    <text x="0" y="72" fill="#F6FAFF" font-size="62" font-weight="800" letter-spacing="-2" font-family="Inter, Arial, sans-serif">
+      We engineer products
+    </text>
+
+    <text x="0" y="136" fill="url(#brand)" font-size="62" font-weight="800" letter-spacing="-2" font-family="Inter, Arial, sans-serif">
+      built for real growth.
+    </text>
+
+    <text x="0" y="190" fill="#A7B9D3" font-size="23" font-weight="400" font-family="Inter, Arial, sans-serif">
+      Web • Mobile • AI • Blockchain • Scalable Platforms
+    </text>
+
+    <g transform="translate(0 232)">
+      <rect width="210" height="51" rx="25.5" fill="url(#brand)"/>
+      <text x="105" y="33" text-anchor="middle" fill="#06101D" font-size="18" font-weight="800" font-family="Inter, Arial, sans-serif">
+        BUILD WITH US
+      </text>
+
+      <rect x="230" width="255" height="51" rx="25.5" fill="#0D1A30" stroke="#8AC9FF" stroke-opacity="0.22"/>
+      <text x="357.5" y="33" text-anchor="middle" fill="#D8E7FB" font-size="18" font-weight="700" font-family="Inter, Arial, sans-serif">
+        PRIVATE-BY-DEFAULT CODE
+      </text>
+    </g>
+  </g>
+
+  <!-- bottom proof strip -->
+  <g transform="translate(85 446)">
+    <text x="0" y="0" fill="#6F88AA" font-size="14" font-weight="700" letter-spacing="2" font-family="Inter, Arial, sans-serif">ENGINEERING SIGNALS</text>
+    <circle cx="235" cy="-5" r="4" fill="#13C7B4"/>
+    <text x="250" y="0" fill="#B7C8DE" font-size="16" font-family="Inter, Arial, sans-serif">250+ repositories</text>
+    <circle cx="430" cy="-5" r="4" fill="#3CA7F2"/>
+    <text x="445" y="0" fill="#B7C8DE" font-size="16" font-family="Inter, Arial, sans-serif">Products across industries</text>
+    <circle cx="695" cy="-5" r="4" fill="#637BFF"/>
+    <text x="710" y="0" fill="#B7C8DE" font-size="16" font-family="Inter, Arial, sans-serif">Long-term product partnerships</text>
+    <circle cx="1008" cy="-5" r="4" fill="#13C7B4"/>
+    <text x="1023" y="0" fill="#B7C8DE" font-size="16" font-family="Inter, Arial, sans-serif">Bengaluru • Noida • Global</text>
+  </g>
+</svg>
